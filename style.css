@@ -1,0 +1,17 @@
+#myImage{
+	width: 250px;
+	height: 300px;
+}
+.galButton:hover{
+	background-color:#18b7e7;
+	width :100px;
+}
+.h1{
+	color:blue;
+}
+.p{
+	color:blue;
+}
+ body{
+	background-color:#f99206;
+}
